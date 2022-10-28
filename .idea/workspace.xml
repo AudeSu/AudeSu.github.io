@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.CSS/Labo 2/demo/box/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.CSS/Labo 2/Opdracht 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.CSS/Labo 2/demo/box/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.CSS/Labo 2/demo/box/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AudeSu.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/apashe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/flume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/greta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/labrinth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hobby.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/likes.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +60,7 @@
       <workItem from="1665139707275" duration="597000" />
       <workItem from="1666364574339" duration="126000" />
       <workItem from="1666364725504" duration="23000" />
-      <workItem from="1666948273775" duration="2421000" />
+      <workItem from="1666948273775" duration="4779000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1666364654528</created>
@@ -65,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666364730581</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1666950733184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950733184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

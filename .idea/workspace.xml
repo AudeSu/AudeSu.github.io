@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment="." />
+    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Labo_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 1/Labo 1 - Internet en HTTP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 1/verslag Internet en HTTP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/.idea/Labo 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Labo 2 - HTML deel 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Opdracht 2/voorbeeld headings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Opdracht 5/HTML deel 1 (2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Opdracht 9/HTML deel 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/Opdracht 9/Image/badge1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 2/verslag HTML deel 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Contact information assignment/Contact information assignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Contact information assignment/Oplossing_ContactInformation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Contact information assignment/Oplossing_ContactInformation/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Onderwijsaanbod/Onderwijsaanbod.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Onderwijsaanbod/Oplossing_Opleidingsaanbod/Opleidingsaanbod/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/.idea/Labo 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Images/apashe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Images/flume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Images/greta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Images/labrinth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Personal homepage assignment - kopie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Personal homepage assignment/Personal homepage assignment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Verslag HTML deel 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/labo 3 - HTML deel 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Exemples-labo-main/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Exemples-labo-main/labo4/Picture/images/img_orange_flowers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Exemples-labo-main/labo4/Picture/images/img_pink_flowers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Exemples-labo-main/labo4/Picture/images/img_white_flower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Exemples-labo-main/labo4/Picture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Labo 4 - HTML deel 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Labo 5 - html deel 04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/Images/apashe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/Images/flume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/Images/greta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/Images/labrinth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/hobby.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Persoonlijke website/likes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/verslag html deel 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/CSS Labo 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/Opdracht 6/Styles/Opdracht 6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/Opdracht 6/opdracht 6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/demonstratie domtree/eenvoudig html document.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/demonstratie domtree/images/domtree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/demonstratie domtree/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/demonstratie domtree/scripts/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/demonstratie domtree/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5/verslag CSS deel 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/CSS Labo 2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 1/Opdracht 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 3/OpdrachtResume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 3/Styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 3/resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 4/Opdracht 4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 4/Styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 5/Images/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 5/Opdracht 5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 5/Styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Images/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Images/unchecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Opdracht 6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Oplossing toledo/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Oplossing toledo/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Opdracht 6/Styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/Verslag CSS deel 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/demo/box/Image/gebouw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/demo/box/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/extra voorbeeld en uitleg/extra uitleg collapsing margins.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/extra voorbeeld en uitleg/voorbeeld background buiten border/images/clouds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/extra voorbeeld en uitleg/voorbeeld background buiten border/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/extra voorbeeld en uitleg/voorbeeld background buiten border/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/CSS Labo 3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/opgave nature blog/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/opgave nature blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 7/opgave nature blog/nature blog example.PNG" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +121,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo 3/Personal homepage assignment/Images",
+    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_5",
     "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,6 +151,8 @@
       <workItem from="1668264253902" duration="3471000" />
       <workItem from="1668268235836" duration="258000" />
       <workItem from="1668268508917" duration="1153000" />
+      <workItem from="1668269781984" duration="15000" />
+      <workItem from="1668421471919" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1666364654528</created>
@@ -277,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668269664116</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <created>1668269786043</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668269786043</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

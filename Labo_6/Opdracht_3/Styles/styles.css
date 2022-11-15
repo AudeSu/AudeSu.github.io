@@ -15,15 +15,13 @@ h1 {
 }
 
 
-header, 
-footer {
+header, footer {
   background: #2B2D42;
   color: #8D99AE;
   padding: 30px;
 
 }
-header h1,
-header h2 {
+header h1, header h2 {
   color: #EDF2F4;
 }
 

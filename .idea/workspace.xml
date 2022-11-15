@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/hobby.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/nature_blog/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/nature_blog/Styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Images/greta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Images/greta.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Personal homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/persoonlijke_website/Personal homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/verslag CSS deel 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/verslag CSS deel 3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/~$rslag CSS deel 3.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +71,7 @@
       <workItem from="1668269781984" duration="15000" />
       <workItem from="1668421471919" duration="1886000" />
       <workItem from="1668499984408" duration="7829000" />
-      <workItem from="1668545825738" duration="4517000" />
+      <workItem from="1668545825738" duration="4791000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1666364654528</created>
@@ -352,7 +339,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668509790685</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary=".">
+      <created>1668550525218</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1668550525218</updated>
+    </task>
+    <task id="LOCAL-00040" summary=".">
+      <created>1668550651817</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668550651817</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

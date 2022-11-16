@@ -106,3 +106,7 @@ ol > li {
 ol > li > a > img {
     width: 200px;
 }
+
+h4 {
+    letter-spacing: 1px;
+}

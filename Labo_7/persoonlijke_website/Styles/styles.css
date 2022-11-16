@@ -132,8 +132,6 @@ h4 {
 }
 
 .datagrid table thead th {
-    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #83937C), color-stop(1, #83937C) );
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#83937C', endColorstr='#83937C');
     background-color:#83937C;
     color:#C8C76D;
     font-size: 20px;
@@ -146,7 +144,8 @@ h4 {
 
 .datagrid table tbody td {
     color: #C8C76D;
-    font-size: 16px;font-weight: normal;
+    font-size: 16px;
+    font-weight: normal;
 }
 
 .datagrid table tbody .alt td {
@@ -164,4 +163,8 @@ h4 {
 
 td > img {
     width: 200px;
+}
+
+.datagrid table tbody tr .onbekend {
+    background-color: #ffb2ae;
 }

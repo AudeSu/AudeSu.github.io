@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Friends</title>
-    <link rel="stylesheet" href="Styles/stylesFriends.css">
+    <link rel="stylesheet" href="Styles/styles.css">
 </head>
 <body>
 <section>
@@ -12,30 +12,33 @@
     <a href="index.html">Home</a> | <a href="hobby.html">Hobbies</a> | <a href="likes.html">Likes</a> | <a href="friends.html">Friends</a>
   </nav>
   </header>
-  <table>
+  <div class="datagrid"><table>
     <thead>
     <tr>
       <th>Voornaam</th>
       <th>Achternaam</th>
       <th>Adres</th>
-      <th>Nummer</th>
+      <th>Telefoonnummer</th>
       <th>Eten</th>
       <th>Foto</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
       <td>Bert</td>
       <td>Van Ernie</td>
       <td>Sesamstraat 101</td>
       <td>056 87 65 13</td>
       <td>Banaan</td>
-      <td rowspan="2"><img src="Images/Bert&Ernie.jpeg" alt="Bert&Ernie>"></td>
+      <td rowspan="2"><img src="Images/Bert&Ernie.jpeg" alt="Bert&Ernie"></td>
     </tr>
-    <tr>
+    <tr class="alt">
       <td>Ernie</td>
       <td>Van Bert</td>
       <td>Sesamstraat 101</td>
       <td>068 71 35 47</td>
       <td>Banaan</td>
+      <td></td>
     </tr>
     <tr>
       <td>Cookie</td>
@@ -45,7 +48,7 @@
       <td>Koekjes</td>
       <td><img src="Images/Cookie.jpeg" alt="Cookie"></td>
     </tr>
-    <tr>
+    <tr class="alt">
       <td>Kermit</td>
       <td>The Frog</td>
       <td>Sesamstraat 101</td>
@@ -61,64 +64,8 @@
       <td>Kikkers</td>
       <td><img src="Images/Big_Bird.jpg" alt="Big_Bird"></td>
     </tr>
-    </thead>
-  </table>
+    </tbody>
+  </table></div>
 </section>
 </body>
 </html>
-
-
-<div class="datagrid"><table>
-  <thead>
-  <tr>
-    <th>Voornaam</th>
-    <th>Achternaam</th>
-    <th>Adres</th>
-    <th>Telefoonnummer</th>
-    <th>Eten</th>
-    <th>Foto</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>Bert</td>
-    <td>Van Ernie</td>
-    <td>Sesamstraat 101</td>
-    <td>056 87 65 13</td>
-    <td>Banaan</td>
-    <td>data</td>
-  </tr>
-  <tr class="alt">
-    <td>Ernie</td>
-    <td>Van Bert</td>
-    <td>Sesamstraat 101</td>
-    <td>068 71 35 47</td>
-    <td></td>
-    <td>data</td>
-  </tr>
-  <tr>
-    <td>Cookie</td>
-    <td>Monster</td>
-    <td>Sesamstraat 101</td>
-    <td>085 13 35 46</td>
-    <td>data</td>
-    <td>data</td>
-  </tr>
-  <tr class="alt">
-    <td>Kermit</td>
-    <td>The Frog</td>
-    <td>Sesamstraat 101</td>
-    <td>068 94 51 34</td>
-    <td>data</td>
-    <td>data</td>
-  </tr>
-  <tr>
-    <td>Big</td>
-    <td>Bird</td>
-    <td>Sesamstraat 101</td>
-    <td>078 13 54 64</td>
-    <td>data</td>
-    <td>data</td>
-  </tr>
-  </tbody>
-</table></div>

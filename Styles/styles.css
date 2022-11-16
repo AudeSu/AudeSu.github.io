@@ -22,3 +22,17 @@ a, h1, h2 {
     color: #2b3344;
     font-weight: bold;
 }
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+a {
+    font-size: 1.3em;
+}
+
+/*heel graag nog een accordeon structuur toepassen :))*/

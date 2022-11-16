@@ -1,0 +1,28 @@
+td:first-child, td:last-child {
+    background-color: rgb(255, 220, 220);
+}
+.othermonth {
+    background-color: lightgray !important;
+    color: gray;
+}
+.month {
+    background-color: rgb(170,170,200);
+}
+.days {
+    background-color: rgb(35,37,70);
+    color: rgb(200,190,240) ;
+}
+.free {
+    background-color: rgb(250,120,120);
+}
+table {
+    border-collapse: collapse;
+    border: black solid 3px;
+}
+td, th {
+    border: black dotted 1px;
+}
+.marked {
+    color: blue;
+    text-decoration-line: underline;
+}

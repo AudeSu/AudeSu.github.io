@@ -66,7 +66,7 @@ ul > li > img {
     margin-top: 2px;
 }
 
-li {
+ul > li {
     align-content: center;
     background-color: #d2d2c9;
     padding-bottom: 15px;
@@ -89,6 +89,20 @@ ol {
 }
 
 h3.likes {
-    color: #c8c76d;
+    color: #444444;
     text-align: center;
+}
+
+ol > li {
+    width: 250px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: #c8c76d;
+}
+
+ol > li > a > img {
+    width: 200px;
 }

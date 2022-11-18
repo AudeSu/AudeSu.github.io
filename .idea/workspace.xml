@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment="." />
+    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Labo_8/CSS Labo 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Lorem_ipsum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/begin_cocktail_bar/Oefening  cocktail_bar.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/verslag CSS deel 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/~$rslag CSS deel 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/~WRL0003.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +52,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_4&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -83,13 +98,10 @@
       <workItem from="1668626481460" duration="56000" />
       <workItem from="1668629711166" duration="795000" />
       <workItem from="1668631443389" duration="987000" />
-    </task>
-    <task id="LOCAL-00018" summary=".">
-      <created>1668267603272</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1668267603272</updated>
+      <workItem from="1668689801645" duration="520000" />
+      <workItem from="1668765574534" duration="561000" />
+      <workItem from="1668766155659" duration="3604000" />
+      <workItem from="1668784857165" duration="2916000" />
     </task>
     <task id="LOCAL-00019" summary=".">
       <created>1668267903218</created>
@@ -427,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668632433257</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary=".">
+      <created>1668689872459</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1668689872459</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

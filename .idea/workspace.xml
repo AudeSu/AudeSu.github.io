@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Labo_8/CSS Labo 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Lorem_ipsum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/begin_cocktail_bar/Oefening  cocktail_bar.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/css deel 4 voorbeelden positionering/voorbeeld4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/verslag CSS deel 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum_extra_space/Lorem_ipsum_extra_space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum_extra_space/Styles/styles.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Labo_8/~$rslag CSS deel 4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/~WRL0003.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Lorem_ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Lorem_ipsum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/Lorem_Ipsum/Styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_4&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_8/Lorem_Ipsum_extra_space/Styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space\Styles" />
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space" />
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_7" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_7\persoonlijke_website" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_5" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo 3\Personal homepage assignment\Images" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\.CSS\Labo 2\Opdracht 6\Images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,21 +94,7 @@
       <workItem from="1668689801645" duration="520000" />
       <workItem from="1668765574534" duration="561000" />
       <workItem from="1668766155659" duration="3604000" />
-      <workItem from="1668784857165" duration="2916000" />
-    </task>
-    <task id="LOCAL-00019" summary=".">
-      <created>1668267903218</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1668267903218</updated>
-    </task>
-    <task id="LOCAL-00020" summary=".">
-      <created>1668268265904</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1668268265904</updated>
+      <workItem from="1668784857165" duration="9112000" />
     </task>
     <task id="LOCAL-00021" summary=".">
       <created>1668268283457</created>
@@ -446,7 +425,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668689872459</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary=".">
+      <created>1668788011763</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1668788011763</updated>
+    </task>
+    <task id="LOCAL-00069" summary=".">
+      <created>1668811838187</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1668811838187</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

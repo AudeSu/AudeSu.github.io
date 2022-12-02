@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Labo_9/positioneren_van_images/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/A380Grond.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/Britischairways.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/abramovich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/airbus_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/bgsky1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/bgsky2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/bgsky3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/binnen1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/binnen2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/binnen3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/cockpit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/indelucht.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/indelucht2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/pagebackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/pasagiers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/qantas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/tek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/tekening.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/tekklein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Images/transport.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/Styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/opdracht airbus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Airbus/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_3/Personal_homepage_assignment/Personal homepage assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_3/Personal_homepage_assignment/Personal homepage assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/audes/Documents/GitHub&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_9",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_9" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space\Styles" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_7" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_7\persoonlijke_website" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,14 +116,7 @@
       <workItem from="1668765574534" duration="561000" />
       <workItem from="1668766155659" duration="3604000" />
       <workItem from="1668784857165" duration="14547000" />
-      <workItem from="1669985361563" duration="1050000" />
-    </task>
-    <task id="LOCAL-00024" summary=".">
-      <created>1668268547345</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1668268547345</updated>
+      <workItem from="1669985361563" duration="2871000" />
     </task>
     <task id="LOCAL-00025" summary=".">
       <created>1668268551876</created>
@@ -437,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668871256025</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary=".">
+      <created>1669986761506</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1669986761506</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

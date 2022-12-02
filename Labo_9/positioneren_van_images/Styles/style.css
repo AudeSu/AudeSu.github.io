@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 1.25em;
+    margin: 0;
+}
+
+article {
+    border: solid 1px;
+    margin: 2%;
+    padding: 2%;
+}
+
+p {
+    display: inline-block;
+}
+
+article:nth-child(odd) p img {
+    float: left;
+    margin-right: 1%;
+}
+
+p:nth-child(even) img {
+    float: right;
+    margin-left: 1%;
+}

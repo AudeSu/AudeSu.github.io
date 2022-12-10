@@ -1,0 +1,12 @@
+.gray1{
+    background-color: gray;
+}
+
+.gray2{
+    background-color: lightgray;
+}
+
+div[class*='col'] {
+    min-height: 200px;
+    border: solid 10px white;
+}

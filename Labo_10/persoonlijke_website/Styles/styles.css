@@ -1,0 +1,170 @@
+body {
+    font-family: Abadi, sans-serif;
+    background: url("../Images/background.jpg") no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    background-color: #83937c;
+    padding: 10px;
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+nav {
+    background-color: #444444;
+    font-size: 1em;
+    padding: 8px;
+}
+
+nav > a, li > a {
+    color: #83937c;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.personal_information {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: #c8c76d;
+}
+
+.personal_information-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.personal_information > a {
+    color: #c8c76d;
+    text-decoration: none;
+}
+
+p.naam {
+    font-size: 1.5em;
+    letter-spacing: 3px;
+}
+
+h3 {
+    font-size: 1.8em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul > li > img {
+    position: absolute;
+    width: 30px;
+    margin-top: 2px;
+}
+
+ul > li {
+    align-content: center;
+    background-color: #d2d2c9;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    margin: 20px 60px 20px 30px;
+}
+
+h2 {
+    margin-left: 35px;
+    margin-top: 6px;
+}
+
+li > p, li > a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+h3.likes {
+    color: #444444;
+    text-align: center;
+}
+
+ol > li {
+    width: 250px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: #c8c76d;
+}
+
+ol > li > a > img {
+    width: 200px;
+    border-radius: 8px;
+}
+
+h4 {
+    letter-spacing: 1px;
+}
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: left;
+    background: #fff;
+    width: 110%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.datagrid {
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+.datagrid table td, .datagrid table th {
+    padding: 8px 10px;
+}
+
+.datagrid table thead th {
+    background-color:#83937C;
+    color:#C8C76D;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.datagrid table thead th:first-child {
+    border: none;
+}
+
+.datagrid table tbody td {
+    color: #C8C76D;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.datagrid table tbody .alt td {
+    background: #D2D2C9;
+    color: #B0AF60;
+}
+
+.datagrid table tbody td:first-child {
+    border-left: none;
+}
+
+.datagrid table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+td > img {
+    width: 200px;
+}
+
+.datagrid table tbody tr .onbekend {
+    background-color: #ffb2ae;
+}

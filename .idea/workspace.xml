@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment="." />
+    <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Bert&amp;Ernie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Big_Bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Cookie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Elmo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Kermit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Takje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Takje.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/apashe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/flume.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/labrinth.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/CSS/oef1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/CSS/oef1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/oef1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/oef1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/Styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_10/verslag CSS deel 6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/verslag CSS deel 6.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +65,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_10",
+    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_10/bootstrap_oef1",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
@@ -44,11 +73,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10\bootstrap_oef1" />
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10\persoonlijke_website\Styles" />
+      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10\Mondriaan\Style" />
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10\bootstrap_oef2\Style" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_9" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space\Styles" />
-      <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_8\Lorem_Ipsum_extra_space" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -90,14 +119,7 @@
       <workItem from="1668784857165" duration="14547000" />
       <workItem from="1669985361563" duration="3321000" />
       <workItem from="1670581262969" duration="5479000" />
-      <workItem from="1670673978295" duration="4052000" />
-    </task>
-    <task id="LOCAL-00027" summary=".">
-      <created>1668268964269</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1668268964269</updated>
+      <workItem from="1670673978295" duration="6544000" />
     </task>
     <task id="LOCAL-00028" summary=".">
       <created>1668269238991</created>
@@ -435,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670690049745</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary=".">
+      <created>1670752365129</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1670752365129</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

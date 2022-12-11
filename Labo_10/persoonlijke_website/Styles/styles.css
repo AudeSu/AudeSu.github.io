@@ -85,26 +85,23 @@ li > p, li > a {
     margin-right: 10px;
 }
 
-ol {
-    list-style-position: inside;
-}
-
 h3.likes {
     color: #444444;
     text-align: center;
 }
 
-ol > li {
-    width: 250px;
+div[class*='col'] {
+    width: 300px;
     background: rgba(0, 0, 0, 0.6);
     padding: 40px;
     text-align: center;
     margin: auto;
     margin-top: 5%;
     color: #c8c76d;
+    min-height: 250px;
 }
 
-ol > li > a > img {
+div[class*='col'] > a > img {
     width: 200px;
     border-radius: 8px;
 }

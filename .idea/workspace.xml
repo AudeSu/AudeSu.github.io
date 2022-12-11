@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d046fa7-c2bc-4ffd-af2a-6272c8bcbb05" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Bert&amp;Ernie.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Big_Bird.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Cookie.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Elmo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Kermit.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Takje.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/Takje.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/apashe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/flume.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/images/labrinth.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/CSS/oef1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/CSS/oef1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/images/cat4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/images/cat4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/Begin_situatie_mediaQueries/oef1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/mediaQueries/oef1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/beginsituatie_bootstrap5/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/bootstrap_oef1/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/Styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/persoonlijke_website/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/persoonlijke_website/likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/verslag CSS deel 6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/verslag CSS deel 6.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_10/bootstrap_oef1",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/audes/Documents/GitHub/AudeSu.github.io/Labo_10/bootstrap_oef1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\audes\Documents\GitHub\AudeSu.github.io\Labo_10\bootstrap_oef1" />
@@ -119,14 +93,8 @@
       <workItem from="1668784857165" duration="14547000" />
       <workItem from="1669985361563" duration="3321000" />
       <workItem from="1670581262969" duration="5479000" />
-      <workItem from="1670673978295" duration="6544000" />
-    </task>
-    <task id="LOCAL-00028" summary=".">
-      <created>1668269238991</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1668269238991</updated>
+      <workItem from="1670673978295" duration="6653000" />
+      <workItem from="1670754609848" duration="82000" />
     </task>
     <task id="LOCAL-00029" summary=".">
       <created>1668269409155</created>
@@ -464,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670752365129</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary=".">
+      <created>1670754315905</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1670754315905</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

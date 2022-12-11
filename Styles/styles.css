@@ -1,6 +1,7 @@
 body {
     background: url("../Images/background.jpg") no-repeat;
     background-size: cover;
+    margin: 2%;
 }
 
 div {
@@ -34,5 +35,3 @@ h2 {
 a {
     font-size: 1.3em;
 }
-
-/*heel graag nog een accordeon structuur toepassen :))*/

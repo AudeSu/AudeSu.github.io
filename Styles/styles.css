@@ -39,7 +39,7 @@ a {
     font-size: 1.3em;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (min-width: 2000px) {
     h1 {
         font-size: 9em;
     }

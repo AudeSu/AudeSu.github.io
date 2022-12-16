@@ -38,3 +38,17 @@ h2 {
 a {
     font-size: 1.3em;
 }
+
+@media screen and (max-width: 500px) {
+    h1 {
+        font-size: 9em;
+    }
+
+    h2 {
+        font-size: 5.4em;
+    }
+
+    a {
+        font-size: 3.9em;
+    }
+}

@@ -40,6 +40,9 @@ a {
 }
 
 @media screen and (max-width: 760px) {
+    body {
+        margin: 5%;
+    }
     h1 {
         font-size: 6em;
     }

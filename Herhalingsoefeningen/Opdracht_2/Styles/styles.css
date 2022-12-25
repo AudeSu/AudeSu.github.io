@@ -1,9 +1,17 @@
 body {
+    font: 1.2em Verdana, Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
     width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#imgHeader {
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    font-family: Verdana, Helvetica, Arial, sans-serif;
-    font-size: 1.2em;
 }
 
 h1, h2 {
@@ -18,60 +26,44 @@ h2 {
     font-size: 130%;
 }
 
-.WeeklySpecial h1 {
+#guarantee {
+    line-height: 1.9em;
+    font-style: italic;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #444444;
+    border: dashed white;
+    padding: 25px 25px 25px 80px;
+    margin: 30px;
+    background: url(../images/background.gif) no-repeat top left;
+    background-color: #a7cece;
+}
+
+#WeeklySpecial {
+    border: 1px solid #007e7e;
+    padding: 2%;
+    text-align: center;
+    background: url("../images/cocktail.gif") repeat-x;
+    line-height: 1;
+    box-sizing: border-box;
+}
+
+#content {
+    box-sizing: border-box;
+    padding-right: 8px;
+}
+
+#WeeklySpecial h1 {
     color: #2B2D42;
 }
-.WeeklySpecial h2 {
+
+#WeeklySpecial h2 {
     color: #8D99AE;
 }
 
 footer {
     font-size: 50%;
     text-align: center;
-    width: 100%;
-    float: left;
-    margin: 20px;
-}
-
-a {
-    color: black;
-}
-
-.link:hover {
-    background-color: #CC7722;
-}
-
-.WeeklySpecial {
-    border: solid #007e7e 2px;
-    text-align: center;
-    padding: 15px;
-    margin: 10px 10px 10px 50px;
-    box-sizing: border-box;
-    float: right;
-    width: 30%;
-    background-image: url("../images/cocktail.gif");
-    background-repeat: repeat-x;
-}
-
-.origin {
-    width: 70%;
-    box-sizing: border-box;
-}
-
-header {
-    text-align: center;
-    margin-top: 0;
-}
-
-#guarantee {
-    margin: 30px 100px 30px 30px;
-    padding: 20px 20px 20px 80px;
-    color: #444444;
-    background-color: #a7cece;
-    border: dashed white;
-    font-style: italic;
-    background-image: url("../images/background.gif");
-    background-repeat: no-repeat;
+    line-height: normal;
 }
 
 span:first-child {
@@ -80,4 +72,21 @@ span:first-child {
 
 span:last-child {
     font-weight: bold;
+}
+
+a:link {
+    color: #007e7e;
+}
+
+a:visited {
+    color: #333333;
+}
+
+#WeeklySpecial a:link {
+    color: #007e7e;
+}
+
+#WeeklySpecial a:hover {
+    background: #836953;
+    color: white;
 }

@@ -7,7 +7,7 @@
 /*ALGEMEEN*/
 
 body {
-    margin: auto;
+    margin: 0;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -86,7 +86,8 @@ main {
 
 main header {
     width: 100%;
-    background: url("../images/headerimage2.jpg") center no-repeat;
+    background: url("../images/headerimage.jpg") center center no-repeat;
+    background-size: cover;
     height: 500px;
     color: white;
     font-size: 40px;

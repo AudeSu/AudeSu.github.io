@@ -84,16 +84,25 @@ main {
 
 /*MAIN HEADER*/
 
-main header {
-    width: 100%;
+main header
+{
+    border-top: 1px solid #ebe8e8;
+    border-bottom: 0;
+    height: 500px;
     background: url("../images/headerimage.jpg") center center no-repeat;
     background-size: cover;
-    height: 500px;
+    position: relative;
+}
+
+header span
+{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
     color: white;
     font-size: 40px;
-    text-align: center;
-    line-height: 500px;
-    text-shadow: #8D99AE 2px 2px;
+    text-shadow: 2px 2px #8d99AE;
 }
 
 /*MAIN RECIPES*/
@@ -198,7 +207,7 @@ footer p {
 }
 
 @media screen and (min-width: 800px) {
-    main header {
+    main header span {
         font-size: 5em;
     }
 }

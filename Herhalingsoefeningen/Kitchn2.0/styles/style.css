@@ -1,0 +1,189 @@
+/** Volgende CSS gaan we ze geven **/
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*ALGEMEEN*/
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.5em;
+    border-bottom: solid black 2px;
+    color: black;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+/*HEADER*/
+.header img{
+    height: 50px;
+}
+
+.line {
+    border-bottom: #ebe8e8 solid 1px;
+}
+
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+/*NAVIGATIE*/
+nav ul {
+    display: grid;
+    grid-template-columns: repeat(7, auto);
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin: 0 auto 0 auto;
+    width: 600px;
+    padding: 10px 0 10px 0;
+}
+
+nav li {
+    text-align: center;
+    list-style: none;
+    padding: 10px 0 10px 0;
+    border-right: #ebe8e8 solid 1px;
+    text-transform: uppercase;
+    color: #5b4746;
+    font-size: 13px;
+}
+
+nav li:last-child {
+    border-right: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    border-bottom: solid 2px #fff100;
+}
+
+/*MAIN header*/
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: #ebe8e8 solid 1px;
+    background: url("../images/headerimage.jpg") center center no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+header span {
+    color: white;
+    font-size: 40px;
+    text-shadow: #8D99AE 2px 2px;
+}
+
+/*MAIN recipes*/
+article {
+    margin: 0 auto 0 auto;
+    width: 600px
+}
+
+.recipes {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+}
+
+section {
+    margin-right: 1.5em;
+    padding-top: 1em;
+    border-top: #ebe8e8 solid 1px;
+}
+
+.kicker {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    color: #ff4d56;
+}
+
+h2 a {
+    text-decoration: none;
+    color: black;
+}
+
+section p {
+    color: #666666;
+    line-height: 2;
+}
+
+.auteur {
+    padding-right: 10px;
+    font-style: italic;
+    border-right: solid 1px #ebe8e8;
+}
+
+.time {
+    color: #666666;
+    padding-left: 10px;
+}
+
+/*MAIN recommended*/
+.recommended {
+    margin: 50px auto 0 auto;
+    width: 600px;
+}
+
+.wit {
+    padding-bottom: 25px;
+}
+
+/*FOOTER*/
+footer {
+    border-top: solid 1px #ebe8e8;
+    line-height: 2em;
+}
+
+#left, #right {
+    float: left;
+    width: 50%;
+    padding: 20px;
+}
+
+#left {
+    text-align: right;
+}
+
+#right {
+    background-color: black;
+    color: white;
+}
+
+@media screen and (min-width: 770px){
+    .header, nav, article, .recommended {
+        width: 750px;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    .header, nav, article, .recommended {
+        width: 980px;
+    }
+}
+
+@media screen and (min-width: 800px){
+    header span{
+        font-size: 5em;
+    }
+}

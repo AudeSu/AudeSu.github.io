@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+    <title>Opdracht 3</title>
+</head>
+<body>
+<div class="container">
+ <p><strong>Wat voor soort waarde zit er in die variabelen?</strong></p>
+ <p>De variabele sliders zal verwijzen naar een HTMLCollection van één element (de slider) en de variabele colorDemos
+  zal verwijzen naar een NodeList van één element (het blokje).</p>
+
+ <p><strong>Hoeveel elementen zitten er in elke verzameling?</strong></p>
+ <p>Er zit 1 element in elke verzameling.</p>
+
+ <p><strong>Kun je uit de HTML code afleiden waarom er dit precies zoveel zijn?</strong></p>
+ <p>Ja, de HTML-code bevat slechts één element met de klasse "colorDemo" en één input-element met de klasse "slider".</p>
+
+ <p><strong>Op welke index positie in de lijst staat dit element?</strong></p>
+ <p>Het eerste element staat op indexpositie 0 in de lijst.</p>
+
+ <p><strong>Heb je er trouwens op gelet dat het blokje (nog) niet rood is?</strong></p>
+ <p>Het blokje is nog niet rood omdat de setup-functie nog niet is uitgevoerd.</p>
+
+ <p><strong>Snap je nu waarom er een [0] achteraan colorDemos[0] staat?</strong></p>
+ <p>De [0] achter colorDemos[0] staat omdat getElementsByClassName een NodeList teruggeeft, en we slechts één element
+  willen selecteren, dus gebruiken we de index 0 om het eerste element te selecteren.</p>
+</div>
+</body>
+</html>

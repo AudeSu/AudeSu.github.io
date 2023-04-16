@@ -1,0 +1,5 @@
+th, td, table {
+  border: 1px solid black;
+  font-weight: normal;
+  text-align: left;
+}

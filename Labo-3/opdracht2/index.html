@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Opdracht 2</title>
+</head>
+<body>
+<div class="container">
+ <p><strong>Waar wordt de event listener gekoppeld aan de slider?</strong></p>
+ <p>De event listener wordt gekoppeld aan de slider in de JavaScript code met de volgende regels:</p>
+ <pre><code>sliders[0].addEventListener("change", update);
+sliders[0].addEventListener("input", update);</code></pre>
+
+ <p><strong>Waarom moeten we die op twee soorten events koppelen?</strong></p>
+ <p>We moeten de event listener op twee soorten events koppelen (change en input), omdat de input event elke verandering
+  van de slider registreert terwijl de change event alleen wordt geactiveerd wanneer de slider losgelaten wordt na een
+  verandering.</p>
+
+ <p><strong>In de CSS file wordt nergens een rode kleur opgegeven, waar wordt dan wel de rode kleur van het blokje
+  ingesteld?</strong></p>
+ <p>De rode kleur van het blokje wordt ingesteld via JavaScript, meer bepaald met de volgende code:
+  <code>colorDemos[0].style.backgroundColor="red";</code></p>
+
+ <p><strong>Waarom schrijven we telkens sliders[0] en colorDemos[0] en niet gewoon sliders of colorDemos?</strong></p>
+ <p>We schrijven telkens sliders[0] en colorDemos[0] omdat <code>document.getElementsByClassName</code> een array
+  teruggeeft van alle elementen die voldoen aan de opgegeven class. Aangezien we maar één slider en één blokje hebben,
+  weten we dat deze zich op de eerste positie van de array bevinden.</p>
+
+ <p><strong>Waar vind je de CSS-properties die programmatorisch werden ingesteld, zoals bv. de rode
+  achtergrondkleur van het blokje?</strong></p>
+ <p>Je kan de CSS-properties die programmatorisch werden ingesteld bekijken op het "Computed" tabblad van de Chrome
+  Developer Tools.</p>
+</div>
+</body>
+</html>

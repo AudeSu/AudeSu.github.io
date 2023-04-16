@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulier Elementen</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <form action="" method="post">
+    <label for="firstName">First Name*:</label>
+    <input type="text" id="firstName" name="firstName" placeholder="Your first name" autofocus>
+    <br/>
+    <label for="lastName">Last Name*:</label>
+    <input type="text" id="lastName" name="firstName" placeholder="Your last name">
+    <br/>
+    Which sports do you train?
+    <br/>
+    <label for="running">Running</label>
+    <input type="checkbox" id="running" name="running">
+    <br/>
+    <label for="swimming">Swimming</label>
+    <input type="checkbox" id="swimming" name="swimming">
+    <br/>
+    <label for="rowing">Rowing</label>
+    <input type="checkbox" id="rowing" name="rowing">
+    <br/>
+    What is your gender?
+    <br/>
+    <input type="radio" name="gender" id="male">
+    <label for="male">Male</label>
+    <br/>
+    <input type="radio" name="gender" id="female">
+    <label for="female">Female</label>
+    <br/>
+    <label for="movie">Favorite movie:</label>
+    <input type="text" id="movie" name="movie">
+    <br/>
+    <label for="quote">Favorite quote:</label>
+    <input type="text" id="quote" name="quote" placeholder="Write your favorite quote">
+    <br/>
+    <label for="password">Password*:</label>
+    <input type="password" id="password" name="password">
+    <br/>
+    <label for="food">Favorite food:</label>
+    <select id="food" name="food">
+      <option>Hamburger</option>
+      <option>Piza</option>
+      <option>Salad</option>
+    </select>
+    <br/>
+    <input type="file" id="bestandKiezen" name="bestandKiezen">
+    <br/>
+    <label for="email">Email address:</label>
+    <input type="email" id="email" name="email" placeholder="Enter your email address">
+    <br/>
+    <label for="site">Favorite site:</label>
+    <input type="url" id="site" name="site" placeholder="Enter the URL of your favorite site">
+    <br/>
+    <label for="number">Favorite number between 1-10:</label>
+    <input type="number" id="number" name="number" min="1" max="10">
+    <br/>
+    <label for="bigNumber">Favorite number between 11-1000:</label>
+    <input type="range" id="bigNumber" name="bigNumber" min="11" max="1000">
+    <br/>
+    <label for="birthDate">When were you born?</label>
+    <input type="date" id="birthDate" name="birthDate">
+    <br/>
+    <label for="reg">Belgian zip-code reg number*:</label>
+    <input type="text" id="reg" name="reg" placeholder="9999">
+    <br/>
+    <label for="search">Search for something:</label>
+    <input type="search" id="search" name="search">
+    <br/>
+    <label for="color">What is your favorite color?</label>
+    <input type="color" id="color" name="color">
+    <br/>
+    <input type="submit">
+  </form>
+</body>
+</html>

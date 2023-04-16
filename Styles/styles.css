@@ -1,57 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-image: url("../Images/background.jpg");
-    margin: 2%;
-    background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #EFF1EE;
+    color: #565656;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-div {
-    background: rgba( 255, 255, 255, 0.35 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 4px );
-    -webkit-backdrop-filter: blur( 4px );
-    border-radius: 10px;
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
-p, h1, h2 {
-    margin-left: 20px;
+header {
+    background: url('../Images/Header.jpg') no-repeat center center;
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
 }
 
-a, h1, h2 {
+nav {
+    margin-top: 30px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #565656;
     text-decoration: none;
-    font-family: Abadi, sans-serif;
-    color: #234737;
     font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: #2E8B57;
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 48px;
+    margin: 0;
 }
 
 h2 {
-    font-size: 1.8em;
+    margin-top: 30px;
 }
 
-a {
-    font-size: 1.5em;
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
-@media screen and (max-width: 760px) {
-    body {
-        margin: 5%;
-    }
-    h1 {
-        font-size: 3em;
-    }
+ul li {
+    background-color: #EFF1EE;
+    padding: 10px 20px;
+    border-bottom: 1px solid #CCCCCC;
+}
 
-    h2 {
-        font-size: 1.8em;
-    }
+ul li:last-child {
+    border-bottom: none;
+}
 
-    a {
-        font-size: 1.5em;
-    }
+ul li a {
+    color: #565656;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: #2E8B57;
+}
+
+.semester1,
+.semester2 {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 25px;
+    text-align: center;
 }

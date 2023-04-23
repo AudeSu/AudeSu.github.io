@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Opdracht JSON2</title>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+</head>
+<body>
+<div class="container">
+  <p><strong>Welk formaat wordt er eigenlijk gebruikt om het Date object?</strong></p>
+  <p>Het formaat dat wordt gebruikt om het Date-object te vertegenwoordigen in JSON is ISO 8601, dat is:
+    "yyyy-mm-ddThh:mm:ss.sssZ". Het "T" scheidt de datum en tijd van elkaar, en de "Z" geeft aan dat het een
+    UTC-tijdstempel is.</p>
+
+  <p><strong>Wat gebeurt er als eenzelfde object meermaals voorkomt bij het opbouwen van de JSON tekst?</strong></p>
+  <p>Dan wordt dit object meerdere keren in de JSON-string opgenomen. Dit kan leiden tot redundantie en een grotere
+    bestandsgrootte van de JSON-string. Om dit te voorkomen, kunnen objecten worden genest in arrays en referenties
+    naar deze objecten worden opgenomen in andere delen van de JSON-structuur, in plaats van de objecten zelf te
+    herhalen. Dit kan worden gedaan met behulp van de `$ref`-eigenschap in JSON-schema's.</p>
+</div>
+</body>
+</html>

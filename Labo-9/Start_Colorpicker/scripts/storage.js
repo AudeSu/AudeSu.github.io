@@ -1,5 +1,3 @@
-
-
 const storeSliderValues = () => {
     localStorage.setItem("data-red", document.getElementById("sldRed").value);
     localStorage.setItem("data-green", document.getElementById("sldGreen").value);
